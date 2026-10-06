@@ -53,12 +53,13 @@ A curated list of awesome CAD (Computer-Aided Design) software, tools, libraries
 
 ## CAD File Converters & Utilities
 
-- [DWG TrueView](https://www.autodesk.com/products/dwg-trueview) - Free DWG viewer and converter by Autodesk.
 - [Any DWG Converter](https://www.anydwg.com) - Batch DWG/DXF converter.
+- [CADProps](https://www.cadprops.com/tools/step-viewer/) - Browser-based STEP viewer with geometry measurements and section views; viewing requires no account.
+- [CloudConvert](https://cloudconvert.com/dwg-converter) - Online CAD file format converter.
+- [DWG TrueView](https://www.autodesk.com/products/dwg-trueview) - Free DWG viewer and converter by Autodesk.
+- [dxf2gcode](https://github.com/dxf2gcode/dxf2gcode) - Open-source tool to convert DXF to GCode for CNC.
 - [ODA File Converter](https://www.opendesign.com/oda-file-converter) - Free converter for DWG, DGN, and DWF files.
 - [Teigha File Converter](https://www.opendesign.com/teigha-file-converter) - DWG/DXF batch converter by Open Design Alliance.
-- [CloudConvert](https://cloudconvert.com/dwg-converter) - Online CAD file format converter.
-- [dxf2gcode](https://github.com/dxf2gcode/dxf2gcode) - Open-source tool to convert DXF to GCode for CNC.
 
 ## Libraries & SDKs
 
