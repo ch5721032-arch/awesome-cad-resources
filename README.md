@@ -79,6 +79,7 @@ A curated list of awesome CAD (Computer-Aided Design) software, tools, libraries
 - [AutoCAD Tutorials (Autodesk)](https://knowledge.autodesk.com/support/autocad) - Official AutoCAD learning resources.
 - [CADTutor](https://www.cadtutor.net) - Free tutorials, articles, and tips for CAD users.
 - [MyCADSite](https://www.mycadsite.com) - Comprehensive free AutoCAD tutorials.
+- [SolidCraft CAD](https://solidcraftcad.com/) - Guide to SolidCraft, the open-source parametric 3D CAD app in Rust: browser use, downloads, MCP setup.
 - [YouTube: CAD in Black](https://www.youtube.com/c/CADinBlack) - High-quality AutoCAD & CAD tutorials.
 
 ### Books
